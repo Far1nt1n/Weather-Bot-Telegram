@@ -9,9 +9,9 @@ from aiogram.filters import CommandStart, Command, or_f
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
 #опц
-TG_TOKEN = "7328048685:AAHe_FsS9bMQFIqyEYSwFCxxqVORR1vrA7Q"
-OWM_API_KEY = "2e46c50587f4626dab51eba27fb1778b"
-ADMIN_ID = 7787661259  # Твой ID для рассылки
+TG_TOKEN = ""
+OWM_API_KEY = ""
+ADMIN_ID =   # Твой ID для рассылки
 USERS_FILE = "users.txt"
 SETTINGS_FILE = "user_settings.json"
 
